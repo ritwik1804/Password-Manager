@@ -1,0 +1,14 @@
+.websitePara {
+    width: 90vw;
+    padding: 20px;
+    margin: auto;
+    color: white;
+}
+
+.websitePara h1 {
+    text-align: center;
+}
+
+.websitePara p {
+    text-align: justify;
+}
